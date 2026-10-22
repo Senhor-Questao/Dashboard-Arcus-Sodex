@@ -43,3 +43,4 @@ SODEX_PUBLIC_KEY_CONTA_2=colar o nome da api aqui
 SODEX_PRIVATE_KEY_CONTA_2=colar a Private key da API gerada e mostrada somente uma vez aqui
 SODEX_ACCOUNT_ID_CONTA_2=colar o ID da conta sodex
 SODEX_WALLET_ADDRESS_CONTA_2=colar o endereço da wallet conectada a sodex
+
