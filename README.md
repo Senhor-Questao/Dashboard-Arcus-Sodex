@@ -1,22 +1,22 @@
-# --- Ambiente ---
+# Ambiente
 ARCUS_ENV=Mainnet
 ARCUS_REST_URL=https://api.arcus.xyz
 ARCUS_WS_URL=wss://api.arcus.xyz/v1/ws
 
-# --- Credenciais (SECRETAS) ---
+# Credenciais (SECRETAS)
 # Chave privada Ed25519 em hex ("API Signing Key"), mostrada uma única vez na web app
 ARCUS_API_SIGNING_KEY=
 
-# --- Conta ---
+# Conta
 # Endereço da carteira (master) que autorizou a chave de API
 ARCUS_WALLET_ADDRESS=
 # Número da subconta escolhido ao autorizar a chave (padrão 0)
 ARCUS_ACCOUNT_INDEX=
 
-# --- Mercado ---
+# Mercado
 ARCUS_MARKET_ID=1   # 1 = BTC-USD
 
-# --- Risco ---
+# Risco
 ORDER_SIZE=0.001
 MAX_POSITION_SIZE=0.01
 MAX_DAILY_LOSS_USD=50
@@ -24,7 +24,7 @@ MAX_OPEN_ORDERS=10
 MAX_SLIPPAGE_PCT=1
 ORDER_TTL_DAYS=30
 
-# --- Operação ---
+# Operação
 LOG_LEVEL=INFO
 DRY_RUN=true
 
